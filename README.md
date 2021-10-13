@@ -22,5 +22,5 @@ Oi eu sou a Ana Lívia Lins! Desenvolvedora Front-End JR
   <a href="https://www.linkedin.com/in/analivialins" target="https://www.linkedin.com/in/analivialins"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/analivia/analivia/blob/output/github-contribution-grid-snake.svg)
 
