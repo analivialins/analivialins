@@ -18,7 +18,7 @@
   <img align="center" alt="Ana-B" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
   
-<h3 align="center"><b>Estudando<b></h3> 
+<h3 align="center"><b>Estudando<b></h3><br>
     
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ana-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
