@@ -1,5 +1,5 @@
 
-<p align="center"><b>Oi eu sou a Ana Lívia Lins! Desenvolvedora Front-End JR<b></p> 
+<h3 align="center"><b>Oi eu sou a Ana Lívia Lins! Desenvolvedora Front-End JR<b></h3> 
 
 <div align="center">
   <a href="https://github.com/analivialins">
