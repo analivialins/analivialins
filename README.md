@@ -2,8 +2,8 @@ Oi eu sou a Ana Lívia Lins! Desenvolvedora Front-End JR
 
 <div align="center">
   <a href="https://github.com/analivialins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analivialins&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analivialins&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=analivialins&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analivialins&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
   
   ##
@@ -22,4 +22,3 @@ Oi eu sou a Ana Lívia Lins! Desenvolvedora Front-End JR
   <a href="https://www.linkedin.com/in/analivialins" target="https://www.linkedin.com/in/analivialins"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-   ![Snake animation](https://github.com/analivialins)
