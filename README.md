@@ -1,4 +1,5 @@
-Oi eu sou a Ana Lívia Lins! Desenvolvedora Front-End JR 
+
+<h1><b>Oi eu sou a Ana Lívia Lins! Desenvolvedora Front-End JR<b></h1> 
 
 <div align="center">
   <a href="https://github.com/analivialins">
