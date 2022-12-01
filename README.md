@@ -1,5 +1,5 @@
 
-<h3 align="center"><b> ❤ Oi eu sou a Ana Lívia Lins! Desenvolvedora Front-End ❤ <b></h3><br>
+<h3 align="center"><b> ❤ Oi eu sou a Ana Lívia Lins! Desenvolvedora FullStack ❤ <b></h3><br>
 
 <div align="center">
   <a href="https://github.com/analivialins">
