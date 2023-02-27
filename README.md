@@ -14,7 +14,7 @@
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analivialins&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
   
-  ##Skills
+  ## Skills
 
 <h3 align="center"><b>Entre em contato comigo e me conheça um pouco mais 💭<b></h3><br>
   
