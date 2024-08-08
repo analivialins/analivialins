@@ -1,8 +1,10 @@
 # Ana Lívia Lins
 
 <h3 align="left"><b>Fullstack developer, work with React, Typescript, Golang and Postgres<b></h3><br>
-
-⤷ I am a fullstack developer and software engineering student, as well as being proficient in UX Design. I have worked with ERP and E-commerce projects for retail markets, health tech for corporate fertility benefit and banking niche.
+  
+🌱 Currently learning Mobile Development | React Native and Swift
+  
+⤷ I'm a full-stack developer and software engineering student, as well as being proficient in UX Design, currently studying mobile and IOS development. I've worked on ERP and E-commerce projects for retail, health tech and banking markets.
 
 <a aligh="left" href="https://www.linkedin.com/in/analivialins" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
   
