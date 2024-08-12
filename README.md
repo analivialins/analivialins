@@ -1,6 +1,6 @@
 # Ana Lívia Lins
 
-<h3 align="left"><b>Fullstack developer, work with React, Typescript, Golang and Postgres<b></h3><br>
+<h3 align="left"><b>Fullstack developer, work with React, Typescript, Golang, Nest and Postgres<b></h3><br>
   
 🌱 Currently learning Mobile Development | React Native and Swift
   
